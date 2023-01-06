@@ -23,5 +23,5 @@ public class Items {
     	return priceMap.get(item);
     }
 
-
+	//Hallo
 }
